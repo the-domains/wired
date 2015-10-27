@@ -1,0 +1,23 @@
+name: wired
+favicon: null
+layout_spectrum: 0.6086397543549538
+typography_spectrum: 0.7593632007483393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6008367496542633
+  lightness: 0.4947475923690945
+  saturation: 0.0839012695942074
+  rhythmicContrast: 0.553842619759962
+purpose: []
